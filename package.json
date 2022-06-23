@@ -15,7 +15,8 @@
 		"type": "git"
 	},
 	"dependencies": {
-	       	    "node-sass": "^6.0.0",
+	       	       "sass": "^1.53.0",
+
 		"sass-loader": "^7.0.3"
 	}
 }
